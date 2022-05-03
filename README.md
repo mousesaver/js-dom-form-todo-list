@@ -9,7 +9,7 @@
 We are going to be making a todo list app to practice using HTML forms 🚀
 
 * fork and clone this repo
-* cd into `dom-todo-list`
+* cd into `js-dom-form-todo-list`
 * create an html file and js file, make sure that they are populated and linked up before you get started
 
 ## Specifications
