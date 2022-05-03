@@ -12,7 +12,7 @@ We are going to be making a todo list app to practice using HTML forms 🚀
 * cd into `dom-todo-list`
 * create an html file and js file, make sure that they are populated and linked up before you get started
 
-## Specifacations
+## Specifications
 
 Here is what the app will look like:
 
